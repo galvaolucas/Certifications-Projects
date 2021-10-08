@@ -1,11 +1,11 @@
 # Certifications-Projects
-Challenges and codes
+- Challenges and codes
 
-In this repository you will find some of the challenges and programs that i've made while studying.
+- In this repository you will find some of the challenges and programs that i've made while studying.
 
-Most of them are from Hackerrank!
+- Most of them are from Hackerrank!
 
-Flipping Bits:
+# Flipping Bits:
 You will be given a list of 32 bit unsigned integers. Flip all the bits (1 and 0) and return the result as an unsigned integer.
 
 #Example
