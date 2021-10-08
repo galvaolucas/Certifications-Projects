@@ -29,12 +29,12 @@ The first line of the input contains q, the number of queries.
 Each of the next q lines contain an integer, n , to process.
 
 Sample Input
-3 
-2147483647 
-1 
+3,
+2147483647, 
+1,
 0
 
 Sample Output
-2147483648 
-4294967294 
-4294967295
+2147483648,
+4294967294, 
+4294967295,
